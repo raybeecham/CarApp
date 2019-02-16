@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car App</string>
+    <string name="car_wash">Car Wash Packages</string>
+    <string name="cab_fare">Cab Fare Calculator</string>
+    <string name="distance_miles">Please enter the distance in miles</string>
+    <string-array name="txtTypes">
+        <item>SUV</item>
+        <item>sedan</item>
+        <item>minivan</item>
+    </string-array>
+    <string name="choice_type">Please choose your request below</string>
+    <string name="calculate_cab_fare">Calculate Costs</string>
+    <string name="home_button">Home</string>
+</resources>
