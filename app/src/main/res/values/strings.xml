@@ -5,10 +5,11 @@
     <string name="distance_miles">Please enter the distance in miles</string>
     <string-array name="txtTypes">
         <item>SUV</item>
-        <item>sedan</item>
-        <item>minivan</item>
+        <item>Sedan</item>
+        <item>Minivan</item>
     </string-array>
     <string name="choice_type">Please choose your request below</string>
     <string name="calculate_cab_fare">Calculate Costs</string>
     <string name="home_button">Home</string>
+    <string name="title_activity_cab_fare">CabFare</string>
 </resources>
